@@ -1,2 +1,7 @@
-# SM-PROJEKT-2020
-Tarabasz, Kotowicz
+- Your name 
+
+- Project title
+
+- Links to website & social media
+
+- Contact details
